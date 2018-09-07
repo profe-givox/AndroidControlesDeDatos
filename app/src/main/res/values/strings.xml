@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ControlesDeDatos</string>
+
+    <string-array name="presimex">
+        <item>AMLO</item>
+        <item>EPN</item>
+        <item>FCH</item>
+        <item>VFQ</item>
+        <item>EZPL</item>
+        <item>CSG</item>
+    </string-array>
+</resources>
